@@ -63,3 +63,9 @@ header.light-blue {
     float: left;
     margin-left: 10px;
 }
+
+footer {
+    background-color: #8801FE;
+    height: 50px;
+    margin: 20px 0;
+}
