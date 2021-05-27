@@ -30,7 +30,7 @@
 .blue {
     background-color: #0087FE;
     height: 545px;
-    margin: 20px 0;
+    margin-top: 20px;
     padding-bottom: 20px;
 }
 
@@ -67,5 +67,6 @@ header.light-blue {
 footer {
     background-color: #8801FE;
     height: 50px;
-    margin: 20px 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
