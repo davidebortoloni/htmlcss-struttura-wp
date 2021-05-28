@@ -29,7 +29,6 @@
 
 .blue {
     background-color: #0087FE;
-    height: 545px;
     margin-top: 20px;
     padding-bottom: 20px;
 }
@@ -43,22 +42,26 @@ header.light-blue {
     margin-bottom: 25px;
 }
 
+.columns {                                       
+    margin-top: 25px;
+}
+
 .light-blue.left {
-    height: calc(100% - 85px);
+    height: 530px;
     width: calc(21% - 10px);
     float: left;
     margin-right: 10px;
 }
 
 .light-blue.center {
-    height: calc(100% - 85px);
+    height: 530px;
     width: calc(58% - 20px);
     float: left;
     margin: 0 10px;
 }
 
 .light-blue.right {
-    height: calc(100% - 85px);
+    height: 530px;
     width: calc(21% - 10px);
     float: left;
     margin-left: 10px;
